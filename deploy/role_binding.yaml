@@ -9,5 +9,4 @@ subjects:
 roleRef:
   kind: Role
   name: podpreset-webhook
-  namespace: podpreset-webhook
   apiGroup: rbac.authorization.k8s.io
